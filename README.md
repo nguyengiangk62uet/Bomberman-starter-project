@@ -1,1 +1,2 @@
-# bomberman-starter-project
+# Boomberman game
+Boomberman game starter project
